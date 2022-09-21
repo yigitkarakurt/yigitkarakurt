@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yigit Karakurt</h1>
 <h3 align="center">I am studying at Mugla Sitki Kocman Uni on Computer Engineering.</h3>
 
-- 🌱 I’m currently learning **java, javascript and kotlin.**
+- 🌱 I’m currently learning **swift, java and kotlin.**
 
 - 📫 How to reach me **yigitkarakurt35@gmail.com**
 
